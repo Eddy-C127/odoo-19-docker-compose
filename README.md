@@ -125,10 +125,10 @@ server {
 
 ## docker-compose.yml
 
-* odoo:18
+* odoo:19
 * postgres:17
 
-## Odoo 18.0 screenshots after successful installation.
+## Odoo 19.0 screenshots after successful installation.
 
 <p align="center">
 <img src="screenshots/odoo-18-welcome-screenshot.png" width="50%">
