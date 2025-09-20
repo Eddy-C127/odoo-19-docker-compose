@@ -1,4 +1,4 @@
-# Installing Odoo 18.0 with one command (Supports multiple Odoo instances on one server).
+# Installing Odoo 19.0 with one command (Supports multiple Odoo instances on one server).
 
 ## Quick Installation
 
